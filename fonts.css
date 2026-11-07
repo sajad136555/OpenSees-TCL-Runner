@@ -1,0 +1,2 @@
+/* اختیاری: فایل Vazirmatn.woff2 را کنار این فایل بگذارید تا برنامه بدون اینترنت هم با فونت وزیرمتن نمایش داده شود */
+@font-face{font-family:Vazirmatn;src:url(Vazirmatn.woff2) format('woff2');font-weight:100 900;font-display:swap}
